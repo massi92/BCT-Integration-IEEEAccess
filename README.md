@@ -8,4 +8,4 @@ Specifically, the content is uploaded following the subsequent organisation (wit
 * OpenAPI specification of the REST API [OpenAPI specification](https://spec.openapis.org/oas/v3.1.0) (_REST API - OpenAPI Document_ folder)
 * Prototype front end GUI code (_Prototype Front End GUI_ folder)
 * Tests for Ethereum (in terms of gas and costs) and Hyperledger (in terms of throughput and latency) for the implemented case study (_Ethereum - Tests_ and _HL Fabric - Performance tests reports_ folders)
-* Experimental setup for persistence performance evaluation in fee-based and fee-less blockchains available at the following [GitHub Repository](https://github.com/Baudet-Antoine/HyperLedger-Fabric-Storage-Experiment)
+* Experimental setup for persistence performance evaluation in a fee-less blockchain (HL Fabric) available at the following [GitHub Repository](https://github.com/Baudet-Antoine/HyperLedger-Fabric-Storage-Experiment)
