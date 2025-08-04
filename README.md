@@ -1,7 +1,6 @@
-# CoopIS 2024
 ## A Model-based Approach for Blockchain Integration with Case Study in Agri-Food Supply Chains
 
-Supplementary material for CoopIS2024
+Supplementary material
 
 Specifically, the content is uploaded following the subsequent organisation (within _CoopIS 2024 - BCT_ folder).
 
